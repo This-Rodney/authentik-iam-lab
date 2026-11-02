@@ -12,7 +12,6 @@ Deployed a self-hosted Identity Provider (IdP) to centralize authentication and 
 ## 🏗️ Architecture
 - Proxmox host runs on Wi-Fi, utilizing iptables NAT to route container traffic.
 - Authentik runs in a Docker container at `10.10.10.101`.
-- Port forwarding configured on the host to allow secure external access.
 
 ## 🔐 Implementation Details
 1. **User Provisioning:** Created local users and administrative accounts within Authentik.
@@ -22,3 +21,7 @@ Deployed a self-hosted Identity Provider (IdP) to centralize authentication and 
 
 ## 📸 Screenshots
 *(Add your screenshots here: Authentik dashboard, User group assignment, App bindings, User dashboard showing the app)*
+
+<img width="1920" height="886" alt="Screenshot_20261031_200327" src="https://github.com/user-attachments/assets/e5628089-4116-4b71-8fc5-cf970098f139" />
+<img width="1920" height="896" alt="Screenshot_20261101_201031" src="https://github.com/user-attachments/assets/af5e8ab3-7d15-4328-8aff-5f25f2356652" />
+
