@@ -1,4 +1,4 @@
-## 🛡️ Multi-Factor Authentication (MFA)
+## Multi-Factor Authentication (MFA)
 - **TOTP Enrollment:** Created a TOTP Setup Stage and an Authenticator Validation Stage.
 - **Enforcement Policy:** Bound the validation stage to the default authentication flow with "Force the user to configure an authenticator", ensuring all users must enroll an MFA device on next login.
 - **Validation:** Verified that users are prompted to scan a QR code and enter a 6-digit code before gaining access to the dashboard.
