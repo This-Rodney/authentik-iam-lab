@@ -3,7 +3,7 @@
 - Configured Portainer to trust Authentik as its OIDC provider.
 - Mapped the `email` claim as the User Identifier to ensure seamless automatic provisioning.
 - Enabled automatic user provisioning so users logging in via SSO are automatically granted access without manual admin creation.
-
+## 📸 Screenshots
 <img width="1748" height="817" alt="Screenshot_20261102_102254" src="https://github.com/user-attachments/assets/d3b68e9d-9d06-4d57-b726-9812a8c35283" />
 <img width="1920" height="876" alt="Screenshot_20261102_102717" src="https://github.com/user-attachments/assets/ec946659-d862-454d-8f40-8fb9d5bbc17e" />
 <img width="1920" height="886" alt="Screenshot_20261102_102905" src="https://github.com/user-attachments/assets/6d4f67a9-13b5-4ffa-b941-8181998261b6" />
