@@ -1,4 +1,4 @@
-### Service Provider Integration (Portainer)
+## Service Provider Integration (Portainer)
 - Deployed Portainer (a Docker management UI) in a separate LXC container.
 - Configured Portainer to trust Authentik as its OIDC provider.
 - Mapped the `email` claim as the User Identifier to ensure seamless automatic provisioning.
