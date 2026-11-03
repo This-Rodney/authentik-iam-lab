@@ -1,4 +1,4 @@
-## 🔐 Implementation Details
+## Implementation Details
 1. **User Provisioning:** Created local users and administrative accounts within Authentik.
 2. **Role-Based Access Control (RBAC):** Created an "Engineering" group. Assigned specific users to this group to manage access rights.
 3. **SSO Application Configuration:** Configured an OIDC (OpenID Connect) provider for a test application.
